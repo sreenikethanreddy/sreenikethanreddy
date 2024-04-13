@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me saisreenikethanreddy@gmail.com +917207028323
-- 😄 Pronouns: Mr
+- 😄 Pronouns:HE/HIm
 - ⚡want to learn new things about ai 
 <!---
 sreenikethanreddy/sreenikethanreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
