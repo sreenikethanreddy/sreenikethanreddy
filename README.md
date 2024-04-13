@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreenikethanreddy
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently learning  Machine learning & App Development
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me saisreenikethanreddy@gmail.com +917207028323
 - 😄 Pronouns:HE/HIm
